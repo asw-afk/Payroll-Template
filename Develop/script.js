@@ -37,17 +37,20 @@ const collectEmployees = function () {
 
 // Display the average salary
 const displayAverageSalary = function(employeesArray) {
+  
+  document.querySelector('#')
+  
   // TODO: Calculate and display the average salary
-    let sum = 0; 
-    for (let i = 0; i < Array.length; i++) {
+    // let sum = 0; 
+    // for (let i = 0; i < Array.length; i++) {
       
     
       
-      console.log(displayAverageSalary);
-      return sum / Array.length;
-      //return average;
+    //   console.log(displayAverageSalary);
+    //   return sum / Array.length;
+    //   //return average;
     };
-}
+
 
 //
 
